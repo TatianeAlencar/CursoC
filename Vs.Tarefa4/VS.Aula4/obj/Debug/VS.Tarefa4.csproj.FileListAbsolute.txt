@@ -1,0 +1,11 @@
+C:\Users\tatia\OneDrive\Curso Técnico de Inf. Sistemas\UFCD 0785 - PROGRAMAÇÃO C - FORMAS COMPLEXAS\Visual Studio\Aulas\Vs.Tarefa4\VS.Tarefa4\bin\Debug\VS.Tarefa4.exe.config
+C:\Users\tatia\OneDrive\Curso Técnico de Inf. Sistemas\UFCD 0785 - PROGRAMAÇÃO C - FORMAS COMPLEXAS\Visual Studio\Aulas\Vs.Tarefa4\VS.Tarefa4\bin\Debug\VS.Tarefa4.exe
+C:\Users\tatia\OneDrive\Curso Técnico de Inf. Sistemas\UFCD 0785 - PROGRAMAÇÃO C - FORMAS COMPLEXAS\Visual Studio\Aulas\Vs.Tarefa4\VS.Tarefa4\bin\Debug\VS.Tarefa4.pdb
+C:\Users\tatia\OneDrive\Curso Técnico de Inf. Sistemas\UFCD 0785 - PROGRAMAÇÃO C - FORMAS COMPLEXAS\Visual Studio\Aulas\Vs.Tarefa4\VS.Tarefa4\obj\Debug\VS.Tarefa4.csproj.AssemblyReference.cache
+C:\Users\tatia\OneDrive\Curso Técnico de Inf. Sistemas\UFCD 0785 - PROGRAMAÇÃO C - FORMAS COMPLEXAS\Visual Studio\Aulas\Vs.Tarefa4\VS.Tarefa4\obj\Debug\VS.Tarefa4.csproj.SuggestedBindingRedirects.cache
+C:\Users\tatia\OneDrive\Curso Técnico de Inf. Sistemas\UFCD 0785 - PROGRAMAÇÃO C - FORMAS COMPLEXAS\Visual Studio\Aulas\Vs.Tarefa4\VS.Tarefa4\obj\Debug\VS.Tarefa4.Form1.resources
+C:\Users\tatia\OneDrive\Curso Técnico de Inf. Sistemas\UFCD 0785 - PROGRAMAÇÃO C - FORMAS COMPLEXAS\Visual Studio\Aulas\Vs.Tarefa4\VS.Tarefa4\obj\Debug\VS.Tarefa4.Properties.Resources.resources
+C:\Users\tatia\OneDrive\Curso Técnico de Inf. Sistemas\UFCD 0785 - PROGRAMAÇÃO C - FORMAS COMPLEXAS\Visual Studio\Aulas\Vs.Tarefa4\VS.Tarefa4\obj\Debug\VS.Tarefa4.csproj.GenerateResource.cache
+C:\Users\tatia\OneDrive\Curso Técnico de Inf. Sistemas\UFCD 0785 - PROGRAMAÇÃO C - FORMAS COMPLEXAS\Visual Studio\Aulas\Vs.Tarefa4\VS.Tarefa4\obj\Debug\VS.Tarefa4.csproj.CoreCompileInputs.cache
+C:\Users\tatia\OneDrive\Curso Técnico de Inf. Sistemas\UFCD 0785 - PROGRAMAÇÃO C - FORMAS COMPLEXAS\Visual Studio\Aulas\Vs.Tarefa4\VS.Tarefa4\obj\Debug\VS.Tarefa4.exe
+C:\Users\tatia\OneDrive\Curso Técnico de Inf. Sistemas\UFCD 0785 - PROGRAMAÇÃO C - FORMAS COMPLEXAS\Visual Studio\Aulas\Vs.Tarefa4\VS.Tarefa4\obj\Debug\VS.Tarefa4.pdb

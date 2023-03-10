@@ -1,0 +1,44 @@
+C:\Users\tatia\OneDrive\UFCD\UFCD 0785 - PROGRAMAÇÃO C - FORMAS COMPLEXAS\Visual Studio\Aulas\Vs.Tarefa3\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\tatia\OneDrive\UFCD\UFCD 0785 - PROGRAMAÇÃO C - FORMAS COMPLEXAS\Visual Studio\Aulas\Vs.Tarefa3\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\tatia\OneDrive\UFCD\UFCD 0785 - PROGRAMAÇÃO C - FORMAS COMPLEXAS\Visual Studio\Aulas\Vs.Tarefa3\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\tatia\OneDrive\UFCD\UFCD 0785 - PROGRAMAÇÃO C - FORMAS COMPLEXAS\Visual Studio\Aulas\Vs.Tarefa3\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\tatia\OneDrive\UFCD\UFCD 0785 - PROGRAMAÇÃO C - FORMAS COMPLEXAS\Visual Studio\Aulas\Vs.Tarefa3\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\tatia\OneDrive\UFCD\UFCD 0785 - PROGRAMAÇÃO C - FORMAS COMPLEXAS\Visual Studio\Aulas\Vs.Tarefa3\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\tatia\OneDrive\UFCD\UFCD 0785 - PROGRAMAÇÃO C - FORMAS COMPLEXAS\Visual Studio\Aulas\Vs.Tarefa3\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\tatia\OneDrive\UFCD\UFCD 0785 - PROGRAMAÇÃO C - FORMAS COMPLEXAS\Visual Studio\Aulas\Vs.Tarefa3\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\tatia\OneDrive\UFCD\UFCD 0785 - PROGRAMAÇÃO C - FORMAS COMPLEXAS\Visual Studio\Aulas\Vs.Tarefa3\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\tatia\OneDrive\UFCD\UFCD 0785 - PROGRAMAÇÃO C - FORMAS COMPLEXAS\Visual Studio\Aulas\Vs.Tarefa3\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\tatia\OneDrive\UFCD\UFCD 0785 - PROGRAMAÇÃO C - FORMAS COMPLEXAS\Visual Studio\Aulas\Vs.Tarefa3\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\tatia\OneDrive\UFCD\UFCD 0785 - PROGRAMAÇÃO C - FORMAS COMPLEXAS\Visual Studio\Aulas\Vs.Tarefa3 - Cópia\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\tatia\OneDrive\UFCD\UFCD 0785 - PROGRAMAÇÃO C - FORMAS COMPLEXAS\Visual Studio\Aulas\Vs.Tarefa3 - Cópia\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\tatia\OneDrive\UFCD\UFCD 0785 - PROGRAMAÇÃO C - FORMAS COMPLEXAS\Visual Studio\Aulas\Vs.Tarefa3 - Cópia\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\tatia\OneDrive\UFCD\UFCD 0785 - PROGRAMAÇÃO C - FORMAS COMPLEXAS\Visual Studio\Aulas\Vs.Tarefa3 - Cópia\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\tatia\OneDrive\UFCD\UFCD 0785 - PROGRAMAÇÃO C - FORMAS COMPLEXAS\Visual Studio\Aulas\Vs.Tarefa3 - Cópia\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\tatia\OneDrive\UFCD\UFCD 0785 - PROGRAMAÇÃO C - FORMAS COMPLEXAS\Visual Studio\Aulas\Vs.Tarefa3 - Cópia\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\tatia\OneDrive\UFCD\UFCD 0785 - PROGRAMAÇÃO C - FORMAS COMPLEXAS\Visual Studio\Aulas\Vs.Tarefa3 - Cópia\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\tatia\OneDrive\UFCD\UFCD 0785 - PROGRAMAÇÃO C - FORMAS COMPLEXAS\Visual Studio\Aulas\Vs.Tarefa3 - Cópia\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\tatia\OneDrive\UFCD\UFCD 0785 - PROGRAMAÇÃO C - FORMAS COMPLEXAS\Visual Studio\Aulas\Vs.Tarefa3 - Cópia\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\tatia\OneDrive\UFCD\UFCD 0785 - PROGRAMAÇÃO C - FORMAS COMPLEXAS\Visual Studio\Aulas\Vs.Tarefa3 - Cópia\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\tatia\OneDrive\UFCD\UFCD 0785 - PROGRAMAÇÃO C - FORMAS COMPLEXAS\Visual Studio\Aulas\Vs.Tarefa3 - Cópia\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\tatia\OneDrive\UFCD\UFCD 0785 - PROGRAMAÇÃO C - FORMAS COMPLEXAS\Visual Studio\Aulas\Vs.Tarefa3 - Cópia - Cópia\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\tatia\OneDrive\UFCD\UFCD 0785 - PROGRAMAÇÃO C - FORMAS COMPLEXAS\Visual Studio\Aulas\Vs.Tarefa3 - Cópia - Cópia\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\tatia\OneDrive\UFCD\UFCD 0785 - PROGRAMAÇÃO C - FORMAS COMPLEXAS\Visual Studio\Aulas\Vs.Tarefa3 - Cópia - Cópia\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\tatia\OneDrive\UFCD\UFCD 0785 - PROGRAMAÇÃO C - FORMAS COMPLEXAS\Visual Studio\Aulas\Vs.Tarefa3 - Cópia - Cópia\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\tatia\OneDrive\UFCD\UFCD 0785 - PROGRAMAÇÃO C - FORMAS COMPLEXAS\Visual Studio\Aulas\Vs.Tarefa3 - Cópia - Cópia\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\tatia\OneDrive\UFCD\UFCD 0785 - PROGRAMAÇÃO C - FORMAS COMPLEXAS\Visual Studio\Aulas\Vs.Tarefa3 - Cópia - Cópia\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\tatia\OneDrive\UFCD\UFCD 0785 - PROGRAMAÇÃO C - FORMAS COMPLEXAS\Visual Studio\Aulas\Vs.Tarefa3 - Cópia - Cópia\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\tatia\OneDrive\UFCD\UFCD 0785 - PROGRAMAÇÃO C - FORMAS COMPLEXAS\Visual Studio\Aulas\Vs.Tarefa3 - Cópia - Cópia\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\tatia\OneDrive\UFCD\UFCD 0785 - PROGRAMAÇÃO C - FORMAS COMPLEXAS\Visual Studio\Aulas\Vs.Tarefa3 - Cópia - Cópia\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\tatia\OneDrive\UFCD\UFCD 0785 - PROGRAMAÇÃO C - FORMAS COMPLEXAS\Visual Studio\Aulas\Vs.Tarefa3 - Cópia - Cópia\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\tatia\OneDrive\UFCD\UFCD 0785 - PROGRAMAÇÃO C - FORMAS COMPLEXAS\Visual Studio\Aulas\Vs.Tarefa3 - Cópia - Cópia\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\tatia\OneDrive\Curso Técnico de Inf. Sistemas\UFCD 0785 - PROGRAMAÇÃO C - FORMAS COMPLEXAS\Visual Studio\Aulas\Vs.Tarefa3\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\tatia\OneDrive\Curso Técnico de Inf. Sistemas\UFCD 0785 - PROGRAMAÇÃO C - FORMAS COMPLEXAS\Visual Studio\Aulas\Vs.Tarefa3\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\tatia\OneDrive\Curso Técnico de Inf. Sistemas\UFCD 0785 - PROGRAMAÇÃO C - FORMAS COMPLEXAS\Visual Studio\Aulas\Vs.Tarefa3\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\tatia\OneDrive\Curso Técnico de Inf. Sistemas\UFCD 0785 - PROGRAMAÇÃO C - FORMAS COMPLEXAS\Visual Studio\Aulas\Vs.Tarefa3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\tatia\OneDrive\Curso Técnico de Inf. Sistemas\UFCD 0785 - PROGRAMAÇÃO C - FORMAS COMPLEXAS\Visual Studio\Aulas\Vs.Tarefa3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\tatia\OneDrive\Curso Técnico de Inf. Sistemas\UFCD 0785 - PROGRAMAÇÃO C - FORMAS COMPLEXAS\Visual Studio\Aulas\Vs.Tarefa3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\tatia\OneDrive\Curso Técnico de Inf. Sistemas\UFCD 0785 - PROGRAMAÇÃO C - FORMAS COMPLEXAS\Visual Studio\Aulas\Vs.Tarefa3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\tatia\OneDrive\Curso Técnico de Inf. Sistemas\UFCD 0785 - PROGRAMAÇÃO C - FORMAS COMPLEXAS\Visual Studio\Aulas\Vs.Tarefa3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\tatia\OneDrive\Curso Técnico de Inf. Sistemas\UFCD 0785 - PROGRAMAÇÃO C - FORMAS COMPLEXAS\Visual Studio\Aulas\Vs.Tarefa3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\tatia\OneDrive\Curso Técnico de Inf. Sistemas\UFCD 0785 - PROGRAMAÇÃO C - FORMAS COMPLEXAS\Visual Studio\Aulas\Vs.Tarefa3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\tatia\OneDrive\Curso Técnico de Inf. Sistemas\UFCD 0785 - PROGRAMAÇÃO C - FORMAS COMPLEXAS\Visual Studio\Aulas\Vs.Tarefa3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

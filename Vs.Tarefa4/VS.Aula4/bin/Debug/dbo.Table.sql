@@ -1,0 +1,8 @@
+﻿CREATE TABLE [dbo].[Stand]
+(
+	[Id] INT NOT NULL PRIMARY KEY IDENTITY, 
+    [Marca] VARCHAR(MAX) NOT NULL, 
+    [Modelo] VARCHAR(MAX) NOT NULL, 
+    [Matrícula] VARCHAR(MAX) NOT NULL, 
+    [Kms] FLOAT NOT NULL
+)
